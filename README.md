@@ -1,2 +1,4 @@
 # mergetest
 sample 
+sample1
+
